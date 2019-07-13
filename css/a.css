@@ -1,0 +1,162 @@
+/* CSS Document */
+body, html, a, img, div, form, select, input, ul, ol, li, h1, h2, h3, h4, h5, h6, dd, dl, dt, p, label, em, span, cude, i
+{
+    padding: 0;
+    margin: 0;
+    vertical-align: middle;
+}
+body, .submit
+{
+    font-family: arial, "΢���ź�" ,STHeiti, "Microsoft Yahei" ,tahoma, 'Hiragino Sans GB' ,sans-serif;
+}
+body
+{
+    background: url() no-repeat fixed;
+    background-size: cover;
+    background-position: right 0;
+    background: #E4E4E4;
+}
+body
+{
+    max-width: 640px;
+    min-width: 320px;
+    margin: 0px auto;
+    color: #333;
+    overflow-y: auto;
+}
+
+/*::-webkit-scrollbar
+{
+    display: none;
+}*/
+
+/*body{background:url(images/bg.jpg) no-repeat fixed;background-size: cover;background-position: right 0;}*/
+p, ul, li
+{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+h1
+{
+    margin: 10px 0;
+    text-align: center;
+    font-size: 16px;
+}
+h2
+{
+    text-align: center;
+}
+hr
+{
+    border: 0;
+    height: 1px;
+    background-color: #CCC;
+    margin: 5px 0;
+}
+i, em
+{
+    font-style: normal;
+}
+a
+{
+    color: #FFF;
+    text-decoration: none;
+    cursor: pointer;
+}
+a:hover
+{
+    color: #fff;
+}
+html, body
+{
+    height: 100%;
+}
+.con
+{
+    width: 100%;
+    max-width: 640px;
+    min-width: 320px;
+    background: #fff;
+    min-height: 100%;
+}
+.banner-box, .banner-box img
+{
+    width: 100%;
+}
+.game-panel
+{
+    background-color: #fff;
+    padding: 0 10px;
+    padding-top: 10px;
+}
+.game-detail
+{
+    border-bottom: 1px solid #f4f4f4;
+    padding-bottom: 30px;
+    top: -25px;
+}
+.game-detail
+{
+    border-bottom: 1px solid #f4f4f4;
+    padding-bottom: 30px;
+    top: -25px;
+}
+.game-detail-img, .game-start-btn
+{
+    bottom: 2.25rem;
+    margin: 0 auto;
+}
+.game-detail-img
+{
+    border-radius: 10px;
+    width: 6rem;
+    top: -100px;
+    height: 6rem;
+    box-shadow: 2px 2px 4px rgba(2,2,2,.2);
+    border: 1px solid #eee;
+    background-color: #fff;
+    padding: 5px 0px 0px 5px;
+}
+.game-detail-img img
+{
+    width: 5.7rem;
+    height: 5.7rem;
+    border-radius: 6px;
+}
+.game_detail_name
+{
+    font-size: 1.0rem;
+    padding-top: 2px;
+    text-align: center;
+}
+
+.game-detail-name h2
+{
+    font-size: 1.0rem;
+    padding-top: 2px;
+    text-align: center;
+}
+.game-detail-name p
+{
+    color: #999;
+    font-size: 0.8rem;
+    text-align: center;
+    line-height: 25px;
+}
+.game-desc
+{
+    padding: 10px 0 15px;
+    margin-top: -20px;
+}
+.game-desc h3
+{
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.game-desc p
+{
+    font-size: .9rem;
+    color: #666;
+}
